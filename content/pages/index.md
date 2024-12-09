@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Энэ бол тэмдэг юм
       color: text-primary
       type: Badge
     elementId: ''
